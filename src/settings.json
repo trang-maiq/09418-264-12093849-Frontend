@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock limitless possibilities and share groundbreaking insights with a community that celebrates innovation and inspires growth.",
+        "title": "Yay! Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock limitless possibilities and share groundbreaking insights with a community that celebrates innovation and inspires growth.",
+        "title": "Yay! Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock limitless possibilities and share groundbreaking insights with a community that celebrates innovation and inspires growth.",
+        "title": "Yay! Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock limitless possibilities and share groundbreaking insights with a community that celebrates innovation and inspires growth.",
+        "title": "Yay! Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock limitless possibilities and share groundbreaking insights with a community that celebrates innovation and inspires growth.",
+        "title": "Yay! Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock limitless possibilities and share groundbreaking insights with a community that celebrates innovation and inspires growth.",
+        "title": "Yay! Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock limitless possibilities and share groundbreaking insights with a community that celebrates innovation and inspires growth.",
+        "title": "Yay! Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock limitless possibilities and share groundbreaking insights with a community that celebrates innovation and inspires growth.",
+        "title": "Yay! Empowering Your Tech Journey"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay! Empowering Your Tech Journey",
+  "subtitle": "Unlock limitless possibilities and share groundbreaking insights with a community that celebrates innovation and inspires growth."
+}
